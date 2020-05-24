@@ -1,0 +1,11 @@
+{
+  "name": "asincronismo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "scripts": {
+    "callbacks": "node src/callback/index.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
