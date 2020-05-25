@@ -5,7 +5,8 @@
   "main": "src/index.js",
   "scripts": {
     "callbacks": "node src/callback/index.js",
-    "callbacks:challenge": "node src/callback/challenge.js"
+    "callbacks:challenge": "node src/callback/challenge.js",
+    "promise": "node src/promise/index.js"
   },
   "author": "",
   "license": "ISC",
